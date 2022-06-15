@@ -1,0 +1,15 @@
+.content-body-note{
+    width: 95vw;
+    height:100vh;
+    background-color: #1b976a;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-content: center;
+}
+.content-body-note h1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-content: center;
+}

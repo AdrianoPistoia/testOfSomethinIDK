@@ -1,0 +1,30 @@
+*{
+  margin: 0%;
+  padding: 0%;
+  background-color: black;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+}
+.content{
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.list {
+  text-align: left;
+  max-width: 750px;
+  margin: auto;
+}
+.submit-form {
+  max-width: 300px;
+  margin: auto;
+}
+.edit-form {
+  max-width: 300px;
+  margin: auto;
+}
